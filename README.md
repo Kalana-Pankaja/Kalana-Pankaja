@@ -1,126 +1,137 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Kalana Pankaja
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;Web+Developer;Linux+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Computer+Engineering+undergraduate;Full-Stack+Developer;Linux+%26+Open+Source+Enthusiast;Passionate+Coder;Always+Learning+New+Things" alt="Typing SVG" /></a>
+</div>
 
 <p align="center">
-  <a href="https://github.com/yourusername/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Kalana-Pankaja&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Kalana-Pankaja?style=for-the-badge&logo=github&color=lightblue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Kalana-Pankaja?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
+</p>
+
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin&fill=6182B8&text=false&props=size:120px">
   </a>
-  <a href="https://github.com/Kalana-Pankaja?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kalana-Pankaja?label=Followers&style=social" alt="GitHub Badge">
-  </a>
-</p>
+</h1>
 
-## 📊 GitHub Stats & Metrics
+<!--Wavy Divider-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kalana-Pankaja&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalana-Pankaja&theme=tokyonight" />
-</p>
+## 💫 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-Pankaja&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</div>
 
-## 📈 Contribution Graph
+- 🎓 I'm currently studying **Computer Science and Engineering** at **University of Moratuwa**  
+- 🌱 I'm passionate about **Software Development**, **Web Development**, and **Problem Solving**  
+- 🚀 Looking to collaborate on **websites** and **web apps**  
+- 📫 Reach me at: **kalanap.23@crt.mrt.ac.lk**  
+- 🌟 Fun fact: _"I love Music"_  
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Kalana-Pankaja&theme=react-dark" />
-</p>
+<!--Wavy Divider-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 Tech Stack
+## 🌟 Activity Dashboard
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/25-blue?style=for-the-badge" alt="Daily Views"/>
+        <br/>Daily Views
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/140-purple?style=for-the-badge" alt="Weekly Views"/>
+        <br/>Weekly Views
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/540-green?style=for-the-badge" alt="Monthly Views"/>
+        <br/>Monthly Views
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/650-orange?style=for-the-badge" alt="Total Views"/>
+        <br/>Total Views
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🧠 About Me
+<!--Wavy Divider-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🎓 I'm currently studying Computer Science And Engineering at University Of Moratuwa
-- 🌱 I'm passionate about Software Development, Web Development, and problem Solving
-- 🚀 Looking to collaborate on websites, web apps
-- 🌟 Fun fact: I love Music
+## 📊 GitHub Stats
 
-## 🏆 Achievements & Badges
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalana-Pankaja&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-Pankaja&layout=compact&langs_count=7&theme=radical&border_radius=10" alt="Most Used Languages"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kalana-Pankaja&theme=onedark&column=7" />
-</p>
+<div align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalana-Pankaja&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak"/>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalana-Pankaja&theme=radical" alt="GitHub Profile Summary"/>
+</div>
 
-<p align="center">
-  <img width="120px" src="https://user-images.githubusercontent.com/85267939/201628453-1940f746-410d-4636-a369-066c8e7eb483.png" alt="Multilingual User" title="Multilingual User" />
-  <img width="120px" src="https://user-images.githubusercontent.com/85267939/201628213-5eb6bd84-e481-4e3b-95a1-9c3a73458f22.png" alt="Stargazer" title="Stargazer" />
-  <img width="120px" src="https://user-images.githubusercontent.com/85267939/201628167-d59e4af5-13d5-4746-bd96-3ae4b258b1e4.png" alt="Super Committer" title="Super Committer" />
-  <img width="120px" src="https://user-images.githubusercontent.com/85267939/201628356-2caa4a73-fb83-4bb7-9f1e-9421a1d6d848.png" alt="Famous User" title="Famous User" />
-  <img width="120px" src="https://user-images.githubusercontent.com/85267939/201628319-e189f69b-8408-41f0-8057-6edec5cdfd45.png" alt="Hyper Repo Creator" title="Hyper Repo Creator" />
-  <img width="120px" src="https://user-images.githubusercontent.com/85267939/201628271-f43cbe7f-9c17-491a-acaa-8c1426759a2f.png" alt="Intermediate Dev" title="Intermediate Dev" />
-</p>
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kalana-Pankaja&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
 
-## 🔥 Daily / Weekly / Monthly Stats
+<!--Wavy Divider-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table>
-  <tr>
-    <td><strong>Daily Views:</strong></td>
-    <td><img src="https://img.shields.io/badge/25-blue?style=for-the-badge" alt="Daily Views"/></td>
-    <td><strong>Weekly Views:</strong></td>
-    <td><img src="https://img.shields.io/badge/140-blue?style=for-the-badge" alt="Weekly Views"/></td>
-    <td><strong>Monthly Views:</strong></td>
-    <td><img src="https://img.shields.io/badge/540-blue?style=for-the-badge" alt="Monthly Views"/></td>
-  </tr>
-</table>
+## 🏆 GitHub Achievements
 
-## 📱 Connect With Me
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kalana-Pankaja&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies"/>
+</div>
 
-<p align="center">
-  <a href="https://portfolio.yourusername.com">
-    <img src="https://img.shields.io/badge/Portfolio-ff0077?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/yourmobilenumber">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
+<!--Wavy Divider-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📄 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://yourblog.com/post1)
-- [Blog Post Title 2](https://yourblog.com/post2)
-- [Blog Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+## 🛠️ Tech Stack
 
-## ⚡ Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/Kalana-Pankaja/repo/pull/123)
-2. 💪 Opened PR [#456](https://github.com/Kalana-Pankajae/repo/pull/456)
-3. 🗣 Commented on [#789](https://github.com/Kalana-Pankaja/repo/issues/789)
-<!--END_SECTION:activity-->
+<div align="center">
+  <table>
+    <tr>
+      <td><h3 align="center">Languages</h3></td>
+      <td><h3 align="center">Frameworks & Libraries</h3></td>
+      <td><h3 align="center">Tools & Technologies</h3></td>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,java,php,typescript,kotlin" alt="Languages" />
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap,tailwind,laravel,flutter" alt="Frameworks & Libraries" />
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=linux,git,docker,aws,firebase,mongodb,mysql,vscode,figma" alt="Tools & Technologies" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-> *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+<!--Wavy Divider-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+<!--Wavy Divider-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🔗 Social Links
+
+- [LinkedIn](https://www.linkedin.com/in/kalana-liyanage-7a29a3241)
+- [Twitter](https://twitter.com/KalanaPankaja)
+- [GitHub](https://github.com/Kalana-Pankaja)
+- [Instagram](https://www.instagram.com/KalanaPankaja)
+- [WhatsApp](https://wa.me/94717524388)
+
+
