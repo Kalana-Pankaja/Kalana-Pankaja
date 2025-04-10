@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Computer+Engineering+undergraduate;Full-Stack+Developer;Linux+%26+Open+Source+Enthusiast;Passionate+Coder;Always+Learning+New+Things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&height=45&lines=Computer+Engineering+undergraduate;Full-Stack+Developer;Linux+%26+Open+Source+Enthusiast;Passionate+Coder;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
