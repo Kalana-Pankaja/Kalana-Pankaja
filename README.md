@@ -3,15 +3,11 @@
 Hi there! I'm **Kalana Pankaja**, a Computer Engineering undergraduate passionate about software development, web technologies, and open-source contributions.
 
 ## 💫 About Me
-
-- 🎓 Studying **Computer Science and Engineering** at the **University of Moratuwa**  
-- 🌱 Focused on **Web Development**, **Software Engineering**, and **Problem Solving**  
-- 🚀 Open to collaborating on websites and web apps  
+- 🎓 Studying **Computer Science and Engineering** at the **University of Moratuwa**   
 - 📫 Reach me at: **kalanap.23@crt.mrt.ac.lk**  
 - 🎵 Fun fact: _I love music!_
 
 ## 🛠️ Tech Stack
-
 **Languages**: Python, JavaScript, C++, Java, TypeScript, Kotlin, PHP, HTML, CSS  
 **Frameworks/Libraries**: React, Node.js, Express, Django, Laravel, Flutter, Bootstrap, Tailwind  
 **Tools**: Git, Linux, Docker, AWS, Firebase, MongoDB, MySQL, VS Code, Figma
