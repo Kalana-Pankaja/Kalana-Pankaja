@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hi there! I'm **Kalana Pankaja**, a Computer Engineering undergraduate passionate about software development, web technologies, and open-source contributions.
+Hi there! I'm **Kalana Pankaja**, a Computer Engineering undergraduate passionate about software development,problem solving, web technologies, and open-source contributions.
 
 ## 💫 About Me
 - 🎓 Studying **Computer Science and Engineering** at the **University of Moratuwa**   
@@ -8,9 +8,9 @@ Hi there! I'm **Kalana Pankaja**, a Computer Engineering undergraduate passionat
 - 🎵 Fun fact: _I love music!_
 
 ## 🛠️ Tech Stack
-**Languages**: Python, JavaScript, C++, Java, TypeScript, Kotlin, PHP, HTML, CSS  
-**Frameworks/Libraries**: React, Node.js, Express, Django, Laravel, Flutter, Bootstrap, Tailwind  
-**Tools**: Git, Linux, Docker, AWS, Firebase, MongoDB, MySQL, VS Code, Figma
+**Languages**: Python, JavaScript, C++, Java, TypeScript, HTML, CSS  
+**Frameworks/Libraries**: React, Node.js, Express, Django, Tailwind  
+**Tools**: Git, Linux, Firebase, MongoDB, MySQL, VS Code, Figma
 
 ## 🔗 Connect with Me
 
