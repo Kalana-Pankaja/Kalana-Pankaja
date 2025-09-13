@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hi there! I'm **Kalana Pankaja**, a Computer Engineering undergraduate passionate about software development,problem solving, web technologies, and open-source contributions.
+Hi there! I'm **Kalana Liyanage**, a Computer Engineering undergraduate passionate about software development,problem solving, web technologies, and open-source contributions.
 
 ## 💫 About Me
 - 🎓 Studying **Computer Science and Engineering** at the **University of Moratuwa**   
