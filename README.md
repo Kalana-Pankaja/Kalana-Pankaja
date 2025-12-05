@@ -1,15 +1,14 @@
 # Welcome to My GitHub Profile
 
-Hi there! I'm **Kalana Liyanage**, a Computer Engineering undergraduate passionate about software development,problem solving, web technologies, and open-source contributions.
+Hi there! I'm **Kalana Liyanage**, a Computer Engineering undergraduate passionate about Android Development, software development,problem solving, web technologies, and open-source contributions.
 
 ## 💫 About Me
 - 🎓 Studying **Computer Science and Engineering** at the **University of Moratuwa**   
-- 📫 Reach me at: **kalanap.23@crt.mrt.ac.lk**  
-- 🎵 Fun fact: _I love music!_
-
+- 📫 Reach me at: **kalanap.23@crt.mrt.ac.lk**
+- 
 ## 🛠️ Tech Stack
-**Languages**: Python, JavaScript, C++, Java, TypeScript, HTML, CSS  
-**Frameworks/Libraries**: React, Node.js, Express, Django, Tailwind  
+**Languages**: Python, C, C++, Java, JavaScript, TypeScript, Kotlin, HTML, CSS, SQL, VHDL, Assembly 
+**Frameworks/Libraries**: ReactJS, Next.js, SvelteKit, TailwindCSS, Node.js, Express.js, Astro, VueJs, NuxtJs
 **Tools**: Git, Linux, Firebase, MongoDB, MySQL, VS Code, Figma
 
 ## 🔗 Connect with Me
