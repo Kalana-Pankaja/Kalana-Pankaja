@@ -5,11 +5,11 @@ Hi there! I'm **Kalana Liyanage**, a Computer Engineering undergraduate passiona
 ## 💫 About Me
 - 🎓 Studying **Computer Science and Engineering** at the **University of Moratuwa**   
 - 📫 Reach me at: **kalanap.23@crt.mrt.ac.lk**
-- 
+  
 ## 🛠️ Tech Stack
-**Languages**: Python, C, C++, Java, JavaScript, TypeScript, Kotlin, HTML, CSS, SQL, VHDL, Assembly 
-**Frameworks/Libraries**: ReactJS, Next.js, SvelteKit, TailwindCSS, Node.js, Express.js, Astro, VueJs, NuxtJs
-**Tools**: Git, Linux, Firebase, MongoDB, MySQL, VS Code, Figma
+- **Languages**: Python, C, C++, Java, JavaScript, TypeScript, Kotlin, HTML, CSS, SQL, VHDL, Assembly 
+- **Frameworks/Libraries**: ReactJS, Next.js, SvelteKit, TailwindCSS, Node.js, Express.js, Astro, VueJs, NuxtJs
+- **Tools**: Git, Linux, Firebase, MongoDB, MySQL, VS Code, Figma,
 
 ## 🔗 Connect with Me
 
